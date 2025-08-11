@@ -5,7 +5,7 @@
 #
 
 # For TRUSTED_BOARD_BOOT platforms need to include this makefile
-# Following definations are to be provided by platform.mk file or
+# Following definitions are to be provided by platform.mk file or
 # by user - BL33_INPUT_FILE, BL32_INPUT_FILE, BL31_INPUT_FILE
 
 ifeq ($(CHASSIS), 2)
